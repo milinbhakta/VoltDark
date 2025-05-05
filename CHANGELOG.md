@@ -2,6 +2,9 @@
 
 All notable changes to the "VoltDark" extension will be documented in this file.
 
+## [1.0.2] - 2025-05-05
+### Added
+- Added short and consise description of the theme in package.json
 ## [1.0.1] - 2025-05-05
 ### Added
 - Added logo to the theme for better branding
