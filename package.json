@@ -2,7 +2,7 @@
   "name": "voltdark",
   "displayName": "VoltDark",
   "description": "VoltDark is a sleek, modern dark theme for Visual Studio Code that blends deep black backgrounds with vibrant, high-contrast syntax highlighting. Designed for developers who prefer a bold and focused workspace, it features electric blue accents and luminous lime-yellow strings (#cdff5c) that make code elements pop without overwhelming the eyes.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.99.0"
   },
