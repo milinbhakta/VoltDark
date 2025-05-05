@@ -10,6 +10,12 @@ VoltDark is a sleek, modern dark theme for Visual Studio Code that blends deep b
 - **Vibrant Strings**: Luminous lime-yellow (#cdff5c) strings that stand out beautifully
 - **Semantic Highlighting**: Enhanced code comprehension with semantic token coloring
 
+## Inspiration
+
+VoltDark draws inspiration from:
+- The [Syntax.fm VS Code Theme](https://marketplace.visualstudio.com/items?itemName=sarah.syntax-highlight) and its vibrant color palette from the popular web development podcast
+- The [JustBlack VS Code Theme](https://marketplace.visualstudio.com/items?itemName=nur.just-black), with its minimalist approach and true black backgrounds
+
 ## Installation
 
 1. Launch Visual Studio Code
