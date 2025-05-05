@@ -2,7 +2,7 @@
 
 All notable changes to the "VoltDark" extension will be documented in this file.
 
-## [0.0.1] - 2025-05-05
+## [1.0.0] - 2025-05-05
 
 ### Added
 - Initial release of VoltDark theme
