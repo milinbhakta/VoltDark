@@ -23,5 +23,6 @@
     "type": "git",
     "url": "https://github.com/milinbhakta/voltdark"
   },
-  "publisher": "mbhakta"
+  "publisher": "mbhakta",
+  "icon": "Icon.png"
 }
