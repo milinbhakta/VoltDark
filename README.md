@@ -1,16 +1,35 @@
-# voltdark README
+# VoltDark Theme
 
-## Working with Markdown
+VoltDark is a sleek, modern dark theme for Visual Studio Code that blends deep black backgrounds with vibrant, high-contrast syntax highlighting. Designed for developers who prefer a bold and focused workspace, it features electric blue accents and luminous lime-yellow strings (#cdff5c) that make code elements pop without overwhelming the eyes.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Features
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+- **Deep Black Background**: Pure black base for reduced eye strain and OLED display optimization
+- **High-Contrast Syntax**: Carefully selected color palette for maximum readability
+- **Electric Blue Accents**: Distinctive blue highlights (#87B1C8) for interface elements 
+- **Vibrant Strings**: Luminous lime-yellow (#cdff5c) strings that stand out beautifully
+- **Semantic Highlighting**: Enhanced code comprehension with semantic token coloring
 
-## For more information
+## Installation
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+1. Launch Visual Studio Code
+2. Go to Extensions (Ctrl+Shift+X / Cmd+Shift+X)
+3. Search for "VoltDark"
+4. Click Install
+5. Select the theme via:
+   - File > Preferences > Color Theme (or Ctrl+K Ctrl+T)
+   - Select "Volt Dark" from the dropdown
 
-**Enjoy!**
+## Screenshots
+
+*Screenshots coming soon*
+
+## Feedback & Contributions
+
+If you find any issues or have suggestions for improvements, please open an issue on the [GitHub repository](https://github.com/milinbhakta/voltdark).
+
+## License
+
+This project is licensed under the MIT License.
+
+**Enjoy coding with VoltDark!**
