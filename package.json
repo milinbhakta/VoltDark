@@ -15,6 +15,11 @@
         "label": "Volt Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/Volt Dark-color-theme.json"
+      },
+      {
+        "label": "Volt Darker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Volt Darker-color-theme.json"
       }
     ]
   },
