@@ -23,11 +23,28 @@
       }
     ]
   },
+  "scripts": {
+    "build": "tsx scripts/index.ts",
+    "dev": "tsx watch scripts/index.ts",
+    "vscode:prepublish": "npm run build",
+    "lint": "eslint .",
+    "prepublishOnly": "npm run build",
+    "release": "bumpp --all",
+    "package": "vsce package --no-dependencies"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/milinbhakta/voltdark"
   },
   "publisher": "mbhakta",
-  "icon": "Icon.png"
+  "icon": "Icon.png",
+  "devDependencies": {
+    "@vscode/vsce": "^3.6.2",
+    "bumpp": "^10.3.1",
+    "fs-extra": "^11.3.2",
+    "tsup": "^8.5.0",
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3"
+  }
 }
