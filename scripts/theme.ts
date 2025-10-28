@@ -18,13 +18,13 @@ export default function getTheme(options: { color: 'dark' | 'light'; name: strin
         "foreground": "#6dfff8"
       }
     },
+    "tokenColors": tokenColors,
     "colors": Object.entries(colorToKeysMap).reduce((acc, [color, keys]) => {
       keys.forEach(key => {
         acc[key] = color;
       });
       return acc;
     }, {} as Record<string, string>),
-    "tokenColors": tokenColors
   };
 
   return theme
