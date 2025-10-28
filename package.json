@@ -24,7 +24,7 @@
     "vscode:prepublish": "pnpm run build",
     "lint": "eslint .",
     "prepublishOnly": "pnpm run build",
-    "release": "bumpp --all",
+    "release": "bumpp --all --changelog",
     "package": "vsce package --no-dependencies"
   },
   "license": "MIT",
