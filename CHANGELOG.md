@@ -2,12 +2,37 @@
 
 All notable changes to the "VoltDark" extension will be documented in this file.
 
+## [2.0.2] - 2025-10-28
+### Added
+- Initial bump configuration file for automated versioning
+
+### Changed
+- Updated release script to include changelog generation flag
+
+## [2.0.1] - 2025-10-28
+### Changed
+- Build improvements and refinements
+
+## [2.0.0] - 2025-10-28
+### Added
+- GitHub Actions workflow for automated publishing
+- CI/CD pipeline for extension releases
+- Steps for packaging and releasing the extension
+- Contents write permission for GitHub releases
+
+### Changed
+- Migrated from npm to pnpm for package management
+- Updated pnpm version to 10 in publish workflow
+- Enhanced functionality and improved performance
+
 ## [1.0.2] - 2025-05-05
 ### Added
-- Added short and consise description of the theme in package.json
+- Added short and concise description of the theme in package.json
+
 ## [1.0.1] - 2025-05-05
 ### Added
 - Added logo to the theme for better branding
+
 ## [1.0.0] - 2025-05-05
 
 ### Added
